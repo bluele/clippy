@@ -15,8 +15,7 @@ tmp_dir = '/tmp/' + str(uuid4())
 md5_val = 'dffe017d592024c4b5c8e351082121c8'
 
 def md5(filename):
-    with open(filename, "rb") as f:
-        data = f.read()
+    data = open(filename, "rb").read()
     return hashlib.md5(data).hexdigest()
 
 def info(message):
