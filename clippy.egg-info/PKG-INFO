@@ -1,11 +1,12 @@
 Metadata-Version: 1.0
 Name: clippy
 Version: 1.0dev
-Summary: UNKNOWN
+Summary: A Cross-platform clipboard command for Linux, MacOSX, etc...
 Home-page: UNKNOWN
 Author: bluele
 Author-email: junkxdev@gmail.com
 License: BSD
-Description: UNKNOWN
+Description:       A Cross-platform clipboard command for Linux, MacOSX, etc...
+        
 Keywords: clipboard command
 Platform: UNKNOWN

@@ -7,8 +7,9 @@ version = '1.0'
 
 setup(name='clippy',
       version=version,
-      description="",
+      description="A Cross-platform clipboard command for Linux, MacOSX, etc...",
       long_description="""\
+      A Cross-platform clipboard command for Linux, MacOSX, etc...
 """,
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
       keywords='clipboard command',
