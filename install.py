@@ -12,7 +12,7 @@ REPOSITORY_URL = 'https://github.com/bluele/clippy'
 SCRIPT_NAME = 'clippy'
 SCRIPT_URL = 'https://raw.github.com/bluele/clippy/master/scripts/%s' % SCRIPT_NAME
 tmp_dir = '/tmp/' + str(uuid4())
-md5_val = '6622ce698ad6f06ccaf80b7ddf19ab2c'
+md5_val = 'dffe017d592024c4b5c8e351082121c8'
 
 def md5(filename):
     with open(filename, "rb") as f:
