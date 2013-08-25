@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+/Users/junkimura/labo/python/clippy/scripts/clippy
+clippy.egg-info/PKG-INFO
+clippy.egg-info/SOURCES.txt
+clippy.egg-info/dependency_links.txt
+clippy.egg-info/entry_points.txt
+clippy.egg-info/not-zip-safe
+clippy.egg-info/top_level.txt
+scripts/clippy
